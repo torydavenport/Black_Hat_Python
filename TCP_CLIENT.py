@@ -8,7 +8,7 @@ UPDATE 6-28-2019 -- > This script is now update for python3
 
 import socket
 
-target_host = "172.16.30.64"
+target_host = "127.0.0.1"
 target_port = 60555
 
 # Create a socket object
