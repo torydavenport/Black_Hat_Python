@@ -8,7 +8,7 @@ UPDATE 6-28-2019 -- > This script is now update for python3
 import socket
 import threading
 
-bind_ip = "127.0.0.1"
+bind_ip = "192.168.1.107"
 bind_port = 60555
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
